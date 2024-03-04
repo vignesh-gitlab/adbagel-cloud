@@ -1,0 +1,101 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-02-13 10:15:02 --> Severity: Warning --> Undefined array key 13 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 10:15:02 --> Severity: Warning --> Undefined array key 14 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 10:15:02 --> Severity: Warning --> Undefined array key 15 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 10:15:02 --> Severity: Warning --> Undefined array key 16 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 10:15:11 --> Severity: Warning --> Undefined array key "description" /home/lygplwmy/public_html/adbagelcom/cloud/application/models/Leads_model.php 140
+ERROR - 2024-02-13 10:15:11 --> Severity: Warning --> Undefined array key "address" /home/lygplwmy/public_html/adbagelcom/cloud/application/models/Leads_model.php 161
+ERROR - 2024-02-13 10:15:11 --> Severity: Warning --> Undefined array key "assigned" /home/lygplwmy/public_html/adbagelcom/cloud/application/models/Leads_model.php 177
+ERROR - 2024-02-13 10:15:11 --> Severity: Warning --> Undefined array key "description" /home/lygplwmy/public_html/adbagelcom/cloud/application/models/Leads_model.php 140
+ERROR - 2024-02-13 10:15:11 --> Severity: Warning --> Undefined array key "address" /home/lygplwmy/public_html/adbagelcom/cloud/application/models/Leads_model.php 161
+ERROR - 2024-02-13 10:15:11 --> Severity: Warning --> Undefined array key "assigned" /home/lygplwmy/public_html/adbagelcom/cloud/application/models/Leads_model.php 177
+ERROR - 2024-02-13 10:15:11 --> Severity: Warning --> Undefined array key "description" /home/lygplwmy/public_html/adbagelcom/cloud/application/models/Leads_model.php 140
+ERROR - 2024-02-13 10:15:11 --> Severity: Warning --> Undefined array key "address" /home/lygplwmy/public_html/adbagelcom/cloud/application/models/Leads_model.php 161
+ERROR - 2024-02-13 10:15:11 --> Severity: Warning --> Undefined array key "assigned" /home/lygplwmy/public_html/adbagelcom/cloud/application/models/Leads_model.php 177
+ERROR - 2024-02-13 10:15:12 --> Severity: Warning --> Undefined array key "description" /home/lygplwmy/public_html/adbagelcom/cloud/application/models/Leads_model.php 140
+ERROR - 2024-02-13 10:15:12 --> Severity: Warning --> Undefined array key "address" /home/lygplwmy/public_html/adbagelcom/cloud/application/models/Leads_model.php 161
+ERROR - 2024-02-13 10:15:12 --> Severity: Warning --> Undefined array key "assigned" /home/lygplwmy/public_html/adbagelcom/cloud/application/models/Leads_model.php 177
+ERROR - 2024-02-13 10:15:17 --> Severity: Warning --> Undefined array key 13 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 10:15:17 --> Severity: Warning --> Undefined array key 14 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 10:15:17 --> Severity: Warning --> Undefined array key 15 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 10:15:17 --> Severity: Warning --> Undefined array key 16 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 10:43:18 --> Severity: Warning --> Undefined array key 13 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 10:43:18 --> Severity: Warning --> Undefined array key 14 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 10:43:18 --> Severity: Warning --> Undefined array key 15 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 10:43:18 --> Severity: Warning --> Undefined array key 16 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 10:44:47 --> Severity: Warning --> Undefined array key 13 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 10:44:47 --> Severity: Warning --> Undefined array key 14 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 10:44:47 --> Severity: Warning --> Undefined array key 15 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 10:44:47 --> Severity: Warning --> Undefined array key 16 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 10:46:32 --> Severity: Warning --> Undefined array key 13 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 10:46:32 --> Severity: Warning --> Undefined array key 14 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 10:46:32 --> Severity: Warning --> Undefined array key 15 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 10:46:32 --> Severity: Warning --> Undefined array key 16 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 10:54:25 --> Severity: Warning --> Undefined array key 13 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 10:54:25 --> Severity: Warning --> Undefined array key 14 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 10:54:25 --> Severity: Warning --> Undefined array key 15 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 10:54:25 --> Severity: Warning --> Undefined array key 16 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 11:54:33 --> Severity: Warning --> Undefined array key 13 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 11:54:33 --> Severity: Warning --> Undefined array key 14 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 11:54:33 --> Severity: Warning --> Undefined array key 15 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 11:54:33 --> Severity: Warning --> Undefined array key 16 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 11:57:36 --> Severity: Warning --> Undefined array key 13 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 11:57:36 --> Severity: Warning --> Undefined array key 14 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 11:57:36 --> Severity: Warning --> Undefined array key 15 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 11:57:36 --> Severity: Warning --> Undefined array key 16 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 12:45:12 --> Severity: Warning --> Undefined array key 13 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 12:45:12 --> Severity: Warning --> Undefined array key 14 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 12:45:12 --> Severity: Warning --> Undefined array key 15 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 12:45:12 --> Severity: Warning --> Undefined array key 16 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 12:47:14 --> Severity: Warning --> Undefined array key 13 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 12:47:14 --> Severity: Warning --> Undefined array key 14 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 12:47:14 --> Severity: Warning --> Undefined array key 15 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 12:47:14 --> Severity: Warning --> Undefined array key 16 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 12:54:38 --> Severity: Warning --> Undefined array key 13 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 12:54:38 --> Severity: Warning --> Undefined array key 14 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 12:54:38 --> Severity: Warning --> Undefined array key 15 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 12:54:38 --> Severity: Warning --> Undefined array key 16 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 13:54:46 --> Severity: Warning --> Undefined array key 13 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 13:54:46 --> Severity: Warning --> Undefined array key 14 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 13:54:46 --> Severity: Warning --> Undefined array key 15 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 13:54:46 --> Severity: Warning --> Undefined array key 16 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 14:33:54 --> Severity: Warning --> Undefined array key 13 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 14:33:54 --> Severity: Warning --> Undefined array key 14 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 14:33:54 --> Severity: Warning --> Undefined array key 15 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 14:33:54 --> Severity: Warning --> Undefined array key 16 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 19:30:03 --> Severity: Warning --> Undefined array key 13 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 19:30:03 --> Severity: Warning --> Undefined array key 14 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 19:30:03 --> Severity: Warning --> Undefined array key 15 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 19:30:03 --> Severity: Warning --> Undefined array key 16 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 19:32:23 --> Severity: Warning --> Undefined array key 13 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 19:32:23 --> Severity: Warning --> Undefined array key 14 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 19:32:23 --> Severity: Warning --> Undefined array key 15 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 19:32:23 --> Severity: Warning --> Undefined array key 16 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 19:37:04 --> Severity: Warning --> Undefined array key 13 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 19:37:04 --> Severity: Warning --> Undefined array key 14 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 19:37:04 --> Severity: Warning --> Undefined array key 15 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 19:37:04 --> Severity: Warning --> Undefined array key 16 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 19:37:10 --> Could not find the language line "NA"
+ERROR - 2024-02-13 19:37:48 --> Could not find the language line "lm_mailbox_is_read"
+ERROR - 2024-02-13 19:38:01 --> Could not find the language line "NA"
+ERROR - 2024-02-13 19:39:36 --> Severity: Warning --> Undefined array key 13 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 19:39:36 --> Severity: Warning --> Undefined array key 14 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 19:39:36 --> Severity: Warning --> Undefined array key 15 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 19:39:36 --> Severity: Warning --> Undefined array key 16 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 19:40:11 --> Severity: Warning --> Undefined array key 13 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 19:40:11 --> Severity: Warning --> Undefined array key 14 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 19:40:11 --> Severity: Warning --> Undefined array key 15 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 19:40:11 --> Severity: Warning --> Undefined array key 16 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 19:42:57 --> Severity: Warning --> Undefined array key 13 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 19:42:57 --> Severity: Warning --> Undefined array key 14 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 19:42:57 --> Severity: Warning --> Undefined array key 15 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 19:42:57 --> Severity: Warning --> Undefined array key 16 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 19:56:46 --> Severity: Warning --> Attempt to read property "appId" on null /home/lygplwmy/public_html/adbagelcom/cloud/modules/lead_manager/views/admin/leads/manage_leads.php 428
+ERROR - 2024-02-13 19:56:46 --> Severity: Warning --> Attempt to read property "facebookPageId" on null /home/lygplwmy/public_html/adbagelcom/cloud/modules/lead_manager/views/admin/leads/manage_leads.php 434
+ERROR - 2024-02-13 19:56:46 --> Severity: Warning --> Attempt to read property "appAccessToken" on null /home/lygplwmy/public_html/adbagelcom/cloud/modules/lead_manager/views/admin/leads/manage_leads.php 436
+ERROR - 2024-02-13 19:56:46 --> Severity: Warning --> Attempt to read property "appAccessToken" on null /home/lygplwmy/public_html/adbagelcom/cloud/modules/lead_manager/views/admin/leads/manage_leads.php 454
+ERROR - 2024-02-13 19:56:48 --> Severity: Warning --> Undefined array key 13 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 19:56:48 --> Severity: Warning --> Undefined array key 14 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 19:56:48 --> Severity: Warning --> Undefined array key 15 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
+ERROR - 2024-02-13 19:56:48 --> Severity: Warning --> Undefined array key 16 /home/lygplwmy/public_html/adbagelcom/cloud/application/helpers/datatables_helper.php 162
